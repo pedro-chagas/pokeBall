@@ -1,5 +1,5 @@
 body {
-    background-image: url("./img/pokemon.jpg");
+    background-image: url("./pokemon.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -15,7 +15,7 @@ body {
 }
 
 #logo {
-    background-image: url("./img/pngegg.png");
+    background-image: url("./pngegg.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
