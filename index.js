@@ -14,7 +14,7 @@ button.addEventListener("click", () => {
             return response.json();
         })
         .then((data) => {
-            pokemonImage.src = "./img/giphy.gif";
+            pokemonImage.src = "./giphy.gif";
             pokemonImage.style.width = "50px";
             const imageUrl = data.sprites.front_default;
             errorBlock.style.display = "none";
